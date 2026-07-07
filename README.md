@@ -54,12 +54,6 @@ The purpose of this project was to gain hands-on experience with help desk admin
 
 Logged into the osTicket Admin/Analyst panel using the administrator account created during the installation lab.
 
-Admin/Analyst Login Page:
-
-```text
-http://localhost/osTicket/scp/login.php
-```
-
 ![Admin panel login](images/step-1-admin-panel-login.png)
 
 ### Step 2: Review Admin Panel vs Agent Panel

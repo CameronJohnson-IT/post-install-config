@@ -106,12 +106,6 @@ Configured users:
 - Karen
 - Ken
 
-End-User Portal:
-
-```text
-http://localhost/osTicket
-```
-
 ![Configure users](images/step-8-configure-users.png)
 
 ### Step 9: Configure SLA Plans

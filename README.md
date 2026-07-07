@@ -8,6 +8,12 @@ This project demonstrates the post-installation configuration of the osTicket he
 
 The purpose of this project was to gain hands-on experience with help desk administration, user access, ticket visibility, support team organization, service level agreements, and ticket categorization. This lab helped show how a ticketing system is configured after installation so it can be used by both support staff and end users.
 
+## Related osTicket Projects
+
+- [osTicket: Prerequisites and Installation](https://github.com/CameronJohnson-IT/osticket-prereqs)
+- [osTicket: Post-Installation Configuration](https://github.com/CameronJohnson-IT/post-install-config)
+- [osTicket: Ticket Lifecycle Examples](LINK-HERE)
+
 ## Technologies Used
 
 - osTicket

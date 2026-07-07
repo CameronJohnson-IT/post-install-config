@@ -1,5 +1,3 @@
-# osTicket Post-Installation Configuration
-
 ![osTicket Post-Installation Configuration](images/post-install-config-header.png)
 
 ## Project Summary

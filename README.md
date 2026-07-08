@@ -144,8 +144,6 @@ This project demonstrates how osTicket can be configured after installation to s
 
 By the end of the lab, the help desk system was prepared to route tickets to the correct departments, assign support responsibilities to agents and teams, apply service level expectations, and organize incoming user requests by topic.
 
-![Configured osTicket system](images/demonstration-configured-system.png)
-
 ## Skills Demonstrated
 
 - Help desk system administration
